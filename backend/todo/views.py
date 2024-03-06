@@ -25,3 +25,4 @@ class ToDoViewSet(viewsets.ModelViewSet):
         'created_at', 
         'updated_at'
     )
+
