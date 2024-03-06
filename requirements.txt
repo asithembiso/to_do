@@ -2,3 +2,6 @@ django
 djangorestframework
 django-filter
 django-cors-headers
+pytest
+pytest-django
+drf-yasg
