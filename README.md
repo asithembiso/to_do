@@ -8,8 +8,6 @@ Before running the application or the tests, make sure you have Python installed
 ```bash
 pip install -r requirements.txt
 cd backend
-export FLASK_APP=app.py
-export FLASK_ENV=development
 python manage.py runserver
 ```
 Now that the backend is running, time to start the frontend by running the following commands.
